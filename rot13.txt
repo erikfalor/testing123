@@ -1,6 +1,6 @@
-Ehyr bs Bcra-Fbhepr Cebtenzzvat #7:
+Rule of Open-Source Programming #7:
 
-Eryrnfr rneyl, eryrnfr bsgra. Pyrna pbzcvyngvba vf bcgvbany.
+Release early, release often. Clean compilation is optional.
 
-    -- Bzre Mnx
-    -- Ehyrf bs Bcra Fbhepr Cebtenzzvat
+    -- Omer Zak
+    -- Rules of Open Source Programming
