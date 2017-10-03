@@ -1,7 +1,6 @@
 Rule of Open-Source Programming #7:
 
 Release early, release often. Clean compilation is optional.
-arstartarst
-duh
+
     -- Omer Zak
     -- Rules of Open Source Programming
